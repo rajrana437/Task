@@ -1,3 +1,3 @@
-# Task
-database - mongoDB atlas server
-to start - node app.js
+# Task.
+Database - mongoDB atlas server.
+To start - node app.js.
